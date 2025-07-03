@@ -1,0 +1,17 @@
+{
+  "edges": [
+  ],
+  "nodes": [
+    {
+      "height": 60,
+      "id": "0150680823e9ffe1",
+      "styleAttributes": {
+      },
+      "text": "[[hands_OOPas 3bp|Раздачи по теме]]",
+      "type": "text",
+      "width": 260,
+      "x": -1480,
+      "y": -740
+    }
+  ]
+}

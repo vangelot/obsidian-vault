@@ -1,0 +1,296 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000. ЗАДАЧИ/Time Track HOME.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Time Track HOME"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8b2f43f12bab8b0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d11a6499fd3fc2c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b470b5108966726c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "109d51e8b0fd3423",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "511eec5996e70c82",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c1a14b700d583128",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 382.50944900512695
+  },
+  "right": {
+    "id": "0ffefbe5f98a8672",
+    "type": "split",
+    "children": [
+      {
+        "id": "ead2b7c65d9baca8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1dcde1ad99136159",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Other/Обсидиан/Обсидиан туториал.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Обсидиан туториал"
+            }
+          },
+          {
+            "id": "fb26827cc83498a6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Other/Обсидиан/Обсидиан туториал.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Обсидиан туториал"
+            }
+          },
+          {
+            "id": "c1ffdc198d3583af",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "f986389542f10021",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "020. Decks/RFI deck.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура RFI deck"
+            }
+          },
+          {
+            "id": "634295fd7472bd7b",
+            "type": "leaf",
+            "state": {
+              "type": "toggl-report",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "da4114b4eb573dc4",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "e31d87184b740169",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "94b30b50181f8c94",
+            "type": "leaf",
+            "state": {
+              "type": "toggl-report",
+              "state": {},
+              "icon": "clock",
+              "title": "Toggl Report"
+            }
+          },
+          {
+            "id": "adb5d5028305fd14",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 397.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "homepage:Open homepage": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-spaced-repetition:Review flashcards": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "000. ЗАДАЧИ/Time Tracker.md",
+    "000. ЗАДАЧИ/Time Track HOME.md",
+    "000. ЗАДАЧИ/25.06.26 (26-4).md",
+    "010. ЖИЗНЬ/ПИТАНИЕ/_Меню.md",
+    "010. ЖИЗНЬ/ПИТАНИЕ/Рацион/Гранола🟢100г.md",
+    "010. ЖИЗНЬ/ПИТАНИЕ/Продукты.md",
+    "pics/other/Pasted image 20250702205722.png",
+    "pics/other/Pasted image 20250702202117.png",
+    "pics/other/Pasted image 20250702184055.png",
+    "pics/other/Pasted image 20250702183223.png",
+    "pics/other/Pasted image 20250702180837.png",
+    "303. Сервер/Медиа Сервер.md",
+    "303. Сервер/Home Assistant.md",
+    "303. Сервер/Мой сервер.md",
+    "000. ЗАДАЧИ/Untitled.md",
+    "000. ЗАДАЧИ/Инвентаризация.md",
+    "030. СИГМА/BUvsBB/A82 ss _copy 1.canvas",
+    "000. ЗАДАЧИ/Задачи. Павел.md",
+    "030. СИГМА/BUvsBB/A82 ss.md",
+    "030. СИГМА/_______tmp.md",
+    "030. СИГМА/BUvsBB/A82ss/A82ss.tmp.md",
+    "030. СИГМА/___Чарты. Оформление.md",
+    "035. Павел. PokerRockets/PokerRockets. GTO+ №1. Интерфейс.md",
+    "030. СИГМА/BUvsBB/A82 ss _copy.canvas",
+    "030. СИГМА/BUvsBB/A82 ss.canvas",
+    "030. СИГМА/0223. Игорь. Практика.md",
+    "030. СИГМА/BUvsBB/K87.md",
+    "030. СИГМА/____покерные формулы.md",
+    "030. СИГМА/__зависимости Психология.md",
+    "030. СИГМА/__Дневник тильта.md",
+    "030. СИГМА/__мотивация.md",
+    "030. СИГМА/_задачи.md",
+    "030. СИГМА/0124. Zager V. Игра против фишей. 24 января.md",
+    "030. СИГМА/0416. Игорь. 4бет поты. Рейзер вне позиции..md",
+    "pics/other/Pasted image 20250630112222.png",
+    "pics/other/Pasted image 20250629124044.png",
+    "pics/other/Pasted image 20250629123541.png",
+    "pics/other/Pasted image 20250629122429.png",
+    "045. Videos",
+    "pics/other/Pasted image 20250616024549.png",
+    "Без названия 1.canvas",
+    "Без названия.canvas",
+    "035. Павел. PokerRockets/250625. Урок 2. Флоп",
+    "Excalidraw",
+    "020. Decks",
+    "040. ОКОЛОПОКЕР/ПСИХОЛОГИЯ",
+    "040. ОКОЛОПОКЕР/Etc",
+    "035. Павел. PokerRockets/250616. Урок 1. Префлоп",
+    "035. Павел. PokerRockets",
+    "pics/other",
+    "pics",
+    "003. СИГМА/Без названия.canvas",
+    "030. СИГМА/заметки в работе/tmp_files/hands_IPas 3bp vs Fish.canvas",
+    "030. СИГМА/заметки в работе/Игра против фишей.canvas",
+    "030. СИГМА/заметки в работе/IPvs OR.canvas",
+    "030. СИГМА/заметки в работе/OOPvs OR.canvas"
+  ]
+}

@@ -1,0 +1,502 @@
+{
+  "edges": [
+    {
+      "color": "1",
+      "fromNode": "9a4e59914192036b",
+      "fromSide": "right",
+      "id": "381d180fe387acfb",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "toNode": "8a166f99aacfa785",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromNode": "9a4e59914192036b",
+      "fromSide": "right",
+      "id": "aa0d453d134def92",
+      "styleAttributes": {
+        "arrow": null,
+        "pathfindingMethod": "direct"
+      },
+      "toNode": "ddd2637a561733b0",
+      "toSide": "left"
+    },
+    {
+      "color": "4",
+      "fromNode": "9a4e59914192036b",
+      "fromSide": "right",
+      "id": "8104e327c76969cf",
+      "styleAttributes": {
+        "arrow": null,
+        "pathfindingMethod": "direct"
+      },
+      "toNode": "6268f79ea5c3ed48",
+      "toSide": "left"
+    },
+    {
+      "color": "1",
+      "fromNode": "a7b284612f467390",
+      "fromSide": "right",
+      "id": "1126d5bb081396e8",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "toNode": "9a4e59914192036b",
+      "toSide": "left"
+    },
+    {
+      "color": "5",
+      "fromNode": "a7b284612f467390",
+      "fromSide": "right",
+      "id": "e532481f89fe24fe",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "toNode": "f5d7b1cd7ab0e99c",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "0f18e4765e979f1c",
+      "fromSide": "right",
+      "id": "2cf2ab4d10663d3c",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "toNode": "bb49239e372b285e",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "3375e95c4c3ed4e1",
+      "fromSide": "right",
+      "id": "8c644ac5778c7cf8",
+      "styleAttributes": {
+      },
+      "toNode": "0f18e4765e979f1c",
+      "toSide": "left"
+    },
+    {
+      "color": "1",
+      "fromNode": "bb49239e372b285e",
+      "fromSide": "right",
+      "id": "7b7a2f5d44f5270f",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "toNode": "7e149e7e81d72cec",
+      "toSide": "left"
+    },
+    {
+      "color": "4",
+      "fromNode": "bb49239e372b285e",
+      "fromSide": "right",
+      "id": "01aa8bf237f26168",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "toNode": "769ef64c701ee80b",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 1994,
+      "id": "301f757be3a46452",
+      "isCollapsed": true,
+      "label": "Turn info",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 840,
+      "x": -1620,
+      "y": -1700
+    },
+    {
+      "autoResizeHeight": true,
+      "height": 440,
+      "id": "18fb3446716abf53",
+      "styleAttributes": {
+      },
+      "text": "![[Pasted image 20250227231534.png|755]]",
+      "type": "text",
+      "width": 800,
+      "x": -1600,
+      "y": -280
+    },
+    {
+      "autoResizeHeight": true,
+      "height": 380,
+      "id": "9aadfeee40cc2313",
+      "styleAttributes": {
+      },
+      "text": "<span style=\"color:rgb(0, 176, 240)\">48.14%</span> <span style=\"color:rgb(154, 205, 50)\">ЭКВИТИ</span>\n<span style=\"color:rgb(255, 140, 0)\">EV</span> <span style=\"color:rgb(255, 20, 147)\">5.4 bb</span>\n<span style=\"color:rgb(255, 140, 0)\">Pot</span> <span style=\"color:rgb(255, 20, 147)\">10 bb</span>\n\n<span style=\"color:rgb(0, 176, 240)\">250</span> кобм всего.\nНАТСЫ: <span style=\"color:rgb(154, 205, 50)\">21.5</span> комб\nТП: <span style=\"color:rgb(154, 205, 50)\">90</span> комб\n- ФД: 29 \n- ОЕСД: 4\n- ГШ: 32\n\nB / X : <span style=\"color:rgb(255, 99, 71)\">87</span> / <span style=\"color:rgb(154, 205, 50)\">164</span> \n",
+      "type": "text",
+      "width": 260,
+      "x": -1140,
+      "y": -1656
+    },
+    {
+      "autoResizeHeight": true,
+      "height": 220,
+      "id": "693ba356c66d5249",
+      "styleAttributes": {
+      },
+      "text": "Не получив рейз <span style=\"color:rgb(255, 99, 71)\">ПОЛЯРИМСЯ</span> терн.\nНизкая частота (<span style=\"color:rgb(0, 176, 240)\">34%</span>), высокий сайз (<span style=\"color:rgb(255, 140, 0)\">геометрия</span>=<span style=\"color:rgb(255, 140, 0)\"></span><span style=\"color:rgb(154, 205, 50)\">174%</span>)\n",
+      "type": "text",
+      "width": 260,
+      "x": -1600,
+      "y": -1656
+    },
+    {
+      "autoResizeHeight": true,
+      "height": 720,
+      "id": "02f32018d9d06cd4",
+      "styleAttributes": {
+      },
+      "text": "![[Pasted image 20250227222907.png]]",
+      "type": "text",
+      "width": 780,
+      "x": -1600,
+      "y": -1170
+    },
+    {
+      "height": 1994,
+      "id": "fe410db7d60f06e3",
+      "isCollapsed": true,
+      "label": "Flop info",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 780,
+      "x": -3400,
+      "y": -1700
+    },
+    {
+      "height": 654,
+      "id": "59cda87978bd84f0",
+      "styleAttributes": {
+      },
+      "text": "![[Pasted image 20250227210516.png]]",
+      "type": "text",
+      "width": 640,
+      "x": -3370,
+      "y": -403
+    },
+    {
+      "file": "402. pics/other/Pasted image 20250227204435.png",
+      "height": 696,
+      "id": "b6ae6615849656f0",
+      "styleAttributes": {
+        "border": null
+      },
+      "type": "file",
+      "width": 700,
+      "x": -3370,
+      "y": -1136
+    },
+    {
+      "autoResizeHeight": true,
+      "height": 320,
+      "id": "63e69569895ee9c8",
+      "styleAttributes": {
+      },
+      "text": "<span style=\"color:rgb(0, 176, 240)\">52.81%</span> <span style=\"color:rgb(154, 205, 50)\">ЭКВИТИ</span>\n<span style=\"color:rgb(255, 140, 0)\">EV</span> <span style=\"color:rgb(0, 176, 240)\">3.1 bb</span>\n<span style=\"color:rgb(255, 140, 0)\">Pot</span> <span style=\"color:rgb(0, 176, 240)\">6 bb</span>\n\n489 кобм всего.\nВЕЛЬЮ: <span style=\"color:rgb(154, 205, 50)\">112.5</span> комб\nБЛЕФЫ: <span style=\"color:rgb(154, 205, 50)\">117</span> комб\n- 93 - ноумейды\n- 24 - вик пары\n",
+      "type": "text",
+      "width": 260,
+      "x": -2930,
+      "y": -1656
+    },
+    {
+      "autoResizeHeight": true,
+      "height": 300,
+      "id": "492014d5a5dcdfda",
+      "styleAttributes": {
+      },
+      "text": "Перевес по всему ренжу. Играем широко за мелкий сайз, давим на мусор. Ставим в индиф К-хай и хуже руки без ФД и БДФД.\nЧек особо не защищаем т.к. оппы на такой текстуре не давят",
+      "type": "text",
+      "width": 360,
+      "x": -3370,
+      "y": -1656
+    },
+    {
+      "color": "3",
+      "height": 1220,
+      "id": "3375e95c4c3ed4e1",
+      "label": "ФЛОП: БЕТ_33",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 680,
+      "x": -2320,
+      "y": -1700
+    },
+    {
+      "color": "5",
+      "height": 480,
+      "id": "fc14237ce5302831",
+      "label": "ФЛОП: ЧЕК",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 680,
+      "x": -2320,
+      "y": -400
+    },
+    {
+      "color": "#ffffff",
+      "height": 512,
+      "id": "3786409906e89365",
+      "label": "ТЕРН: Бланк ",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 430,
+      "x": -780,
+      "y": -1980
+    },
+    {
+      "file": "401. ДопПапки/pics/cards/As.png",
+      "height": 99,
+      "id": "39b8a67dc5e515a5",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 60,
+      "x": -2580,
+      "y": -925
+    },
+    {
+      "autoResizeHeight": true,
+      "color": "4",
+      "height": 60,
+      "id": "5598955fbe2a8b75",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "БЛАНК",
+      "type": "text",
+      "width": 260,
+      "x": -1380,
+      "y": -1891
+    },
+    {
+      "autoResizeHeight": true,
+      "color": "1",
+      "height": 380,
+      "id": "8a166f99aacfa785",
+      "styleAttributes": {
+      },
+      "text": "ВЕЛЬЮ:\n**Сеты**: \n- ВСЕ\n\t- кроме АА[50]\n\n**2 пары**:\n- ВСЕ\n\t- кроме А2о [0]\n\n**ТП**:\n- 75% ТП (лучших)\n\t- А2о-А5о - оставили в чеке",
+      "type": "text",
+      "width": 390,
+      "x": -2060,
+      "y": -1686
+    },
+    {
+      "autoResizeHeight": true,
+      "color": "3",
+      "height": 80,
+      "id": "ddd2637a561733b0",
+      "styleAttributes": {
+      },
+      "text": "МЕРДЖИ:\nУязвимые андерпары, низкие 8х",
+      "type": "text",
+      "width": 390,
+      "x": -2060,
+      "y": -1266
+    },
+    {
+      "autoResizeHeight": true,
+      "color": "4",
+      "height": 640,
+      "id": "6268f79ea5c3ed48",
+      "styleAttributes": {
+      },
+      "text": "БЛЕФЫ:\n**Нижние покеты**, с БД-стрит потенциалом\n- выбивают пары выше\n- имеют потенциал для барелинга\n\n**нижние ФД и БДФД** с потенц. на стрит (76, 65, 97 и тд)\n- много ранаутов для барелинга\n- выбивают оверкарты\n\n**офф.бродвей** с картой в масть\n- все, кроме Кх - их чекаем\n\n**сютовый бродвей** QJ, QT,Q9,JT,J9,T9\n- ФД и БДФД\n\n**К,Q,J - хай низкие**: K7-K3,Q7-Q3,J7-J3\n- ФД и БДФД",
+      "type": "text",
+      "width": 390,
+      "x": -2060,
+      "y": -1146
+    },
+    {
+      "file": "401. ДопПапки/pics/cards/8s.png",
+      "height": 99,
+      "id": "4422692e10503738",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 60,
+      "x": -2520,
+      "y": -925
+    },
+    {
+      "file": "401. ДопПапки/pics/cards/2h.png",
+      "height": 99,
+      "id": "a7b284612f467390",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 60,
+      "x": -2460,
+      "y": -925
+    },
+    {
+      "file": "401. ДопПапки/pics/cards/4d.png",
+      "height": 99,
+      "id": "0f18e4765e979f1c",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 60,
+      "x": -1280,
+      "y": -1831
+    },
+    {
+      "color": "1",
+      "height": 84,
+      "id": "9a4e59914192036b",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "33",
+      "type": "text",
+      "width": 131,
+      "x": -2274,
+      "y": -1200
+    },
+    {
+      "color": "2",
+      "height": 60,
+      "id": "03816cd3ef07766a",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "52",
+      "type": "text",
+      "width": 60,
+      "x": -2238,
+      "y": -1116
+    },
+    {
+      "autoResizeHeight": true,
+      "color": "4",
+      "height": 320,
+      "id": "769ef64c701ee80b",
+      "styleAttributes": {
+      },
+      "text": "**Нижние покеты** 22-55\n**4х** все ФД и БДФД\n- блочат доперы\n\n**низкие комбари** (фд и бдфд), напр. 75, 76\n**Q9o** - блеф через Q d vfcnm\n**ФД и БДФД**: J3-K3 - все, J5-Q5 - только с ФД",
+      "type": "text",
+      "width": 390,
+      "x": -760,
+      "y": -1799
+    },
+    {
+      "autoResizeHeight": true,
+      "color": "1",
+      "height": 120,
+      "id": "7e149e7e81d72cec",
+      "styleAttributes": {
+      },
+      "text": "**Сеты**: все\n**2 пары**: все, кроме А2с\n**ТП**: от AJo[50]",
+      "type": "text",
+      "width": 390,
+      "x": -760,
+      "y": -1951
+    },
+    {
+      "autoResizeHeight": true,
+      "color": "1",
+      "height": 80,
+      "id": "190343721bc67686",
+      "styleAttributes": {
+      },
+      "text": "**СЕТ**: АА - для защиты\n**2 пары**: А2о - для защиты",
+      "type": "text",
+      "width": 390,
+      "x": -2060,
+      "y": -360
+    },
+    {
+      "color": "1",
+      "height": 84,
+      "id": "bb49239e372b285e",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "178",
+      "type": "text",
+      "width": 131,
+      "x": -1080,
+      "y": -1865
+    },
+    {
+      "color": "2",
+      "height": 60,
+      "id": "e7cd67652ab189a8",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "34",
+      "type": "text",
+      "width": 60,
+      "x": -1044,
+      "y": -1781
+    },
+    {
+      "autoResizeHeight": true,
+      "color": "3",
+      "height": 220,
+      "id": "60456911c99eb5c8",
+      "styleAttributes": {
+      },
+      "text": "**А3о, А4о, А5о** - слабые ТП \n**8х** - высокие, менее уязвимые\n**QQ-KK** - нет 3х улиц велью, неуязвимые. В отложке больше велью. После чека имеем 1.5-2 улицы.",
+      "type": "text",
+      "width": 390,
+      "x": -2060,
+      "y": -260
+    },
+    {
+      "autoResizeHeight": true,
+      "color": "4",
+      "height": 80,
+      "id": "3587154456e85617",
+      "styleAttributes": {
+      },
+      "text": "**Высокие Кх** - оставляем в диапе оппа доминируемые руки",
+      "type": "text",
+      "width": 390,
+      "x": -2060,
+      "y": -20
+    },
+    {
+      "color": "5",
+      "height": 84,
+      "id": "f5d7b1cd7ab0e99c",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "ЧЕК",
+      "type": "text",
+      "width": 131,
+      "x": -2273,
+      "y": -260
+    },
+    {
+      "color": "2",
+      "height": 60,
+      "id": "ecd30a416e5f106a",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "48",
+      "type": "text",
+      "width": 60,
+      "x": -2237,
+      "y": -176
+    }
+  ]
+}

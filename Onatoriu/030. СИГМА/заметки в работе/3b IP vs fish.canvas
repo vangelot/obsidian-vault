@@ -1,0 +1,55 @@
+{
+	"edges":[
+		{
+			"fromNode":"e97bf25ca60b540d",
+			"fromSide":"left",
+			"id":"e0f6bd8a09bef100",
+			"label":"вставка заметки",
+			"styleAttributes":{},
+			"toNode":"88b7b484002620ea",
+			"toSide":"top"
+		}
+	],
+	"nodes":[
+		{
+			"height":440,
+			"id":"e97bf25ca60b540d",
+			"label":"Наш ренж",
+			"styleAttributes":{"border":"invisible"},
+			"type":"group",
+			"width":460,
+			"x":-2220,
+			"y":-1320
+		},
+		{
+			"file":"402. pics/other/Pasted image 20250301002944.png",
+			"height":386,
+			"id":"3c954c5d970ab6e3",
+			"styleAttributes":{},
+			"type":"file",
+			"width":400,
+			"x":-2200,
+			"y":-1300
+		},
+		{
+			"height":60,
+			"id":"325937aa027298a7",
+			"styleAttributes":{},
+			"text":"[[hands_IPas 3bp vs Fish.canvas|РАЗДАЧИ]]",
+			"type":"text",
+			"width":180,
+			"x":-1720,
+			"y":-1320
+		},
+		{
+			"file":"001. СИГМА/заметки в работе/tmp_files/hands_IPas3bp_vsFish.md",
+			"height":460,
+			"id":"88b7b484002620ea",
+			"styleAttributes":{},
+			"type":"file",
+			"width":560,
+			"x":-2960,
+			"y":-1080
+		}
+	]
+}

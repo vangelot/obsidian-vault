@@ -1,0 +1,22 @@
+{
+  "cssTheme": "Obsidian gruvbox",
+  "baseFontSize": 17,
+  "baseFontSizeAction": true,
+  "nativeMenus": false,
+  "accentColor": "#d0d03e",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "dashboard-ReadLineLength",
+    "dashboard",
+    "containers",
+    "wider-page",
+    "canvas-editor-font-size",
+    "canvas-text-size",
+    "canvas-font-size",
+    "canvas-font-fix"
+  ],
+  "textFontFamily": "",
+  "interfaceFontFamily": "",
+  "showViewHeader": true,
+  "showRibbon": true
+}

@@ -1,0 +1,10 @@
+{
+  "minimal-advanced@@cursor": "default",
+  "minimal-style@@graph-line@@dark": "#E81212",
+  "minimal-style@@graph-node@@dark": "#3FD4E2",
+  "minimal-advanced@@styled-scrollbars": false,
+  "minimal-advanced@@hide-markdown": false,
+  "primary-theme@@colorful-folders_collapse-indicator": false,
+  "primary-theme@@colorful-folders_text": false,
+  "primary-theme@@alt-folder-icons": false
+}

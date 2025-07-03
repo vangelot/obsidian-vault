@@ -1,0 +1,5 @@
+{
+  "folder": "000. ЗАДАЧИ",
+  "template": "templates/date_template",
+  "format": "YY.MM.DD (W-E)"
+}

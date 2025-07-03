@@ -1,0 +1,18 @@
+{
+  "edges": [
+  ],
+  "nodes": [
+    {
+      "autoResizeHeight": true,
+      "height": 180,
+      "id": "1fd4ac4504d187e7",
+      "styleAttributes": {
+      },
+      "text": "Reg EP,MP,CO open\nFish MP,CO,BTN,SB cold call \nHero SB,BB : SQUEEZE",
+      "type": "text",
+      "width": 260,
+      "x": -1020,
+      "y": -660
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "show-checkboxes": true,
+  "lane-width": 333,
+  "new-note-template": "templates/Card Template.md"
+}

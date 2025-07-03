@@ -1,0 +1,7 @@
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer {
+    max-width: 1000px; /* Ширина страницы в пикселях */
+}
+
+.markdown-source-view.is-readable-line-width .CodeMirror {
+    max-width: 1000px; /* Ширина редактора в пикселях */
+}

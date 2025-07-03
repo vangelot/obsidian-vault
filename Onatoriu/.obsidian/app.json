@@ -1,0 +1,15 @@
+{
+  "alwaysUpdateLinks": true,
+  "spellcheck": false,
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 66
+  },
+  "trashOption": "local",
+  "attachmentFolderPath": "pics/other",
+  "showInlineTitle": true
+}
