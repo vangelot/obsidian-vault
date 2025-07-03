@@ -1,0 +1,22 @@
+# Obsidian internal config
+.obsidian/workspace.json
+.obsidian/appearance.json
+.obsidian/semantic-ops.json
+
+# cache, temp
+.obsidian/plugins/*/cache/
+.Temp/
+*.tmp
+
+# OS files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# журнал Git
+.git/
+
+# файлы больших размеров
+# (если не хочешь заливать PDF и изображения)
+# Например исключаем PDF:
+# *.pdf
