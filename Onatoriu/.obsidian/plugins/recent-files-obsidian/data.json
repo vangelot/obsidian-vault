@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled 1",
-      "path": "000. ЗАДАЧИ/Untitled 1.md"
+      "basename": "25.06.03 (23-2)",
+      "path": "000. ЗАДАЧИ/25.06.03 (23-2).md"
+    },
+    {
+      "basename": "25.06.26 (26-4)",
+      "path": "000. ЗАДАЧИ/25.06.26 (26-4).md"
+    },
+    {
+      "basename": "Еще одна проверка",
+      "path": "000. ЗАДАЧИ/Еще одна проверка.md"
     },
     {
       "basename": "Time Track HOME",
@@ -15,10 +23,6 @@
     {
       "basename": "Time Tracker",
       "path": "000. ЗАДАЧИ/Time Tracker.md"
-    },
-    {
-      "basename": "25.06.26 (26-4)",
-      "path": "000. ЗАДАЧИ/25.06.26 (26-4).md"
     },
     {
       "basename": "Untitled",
@@ -195,10 +199,6 @@
     {
       "basename": "GTO+. Tutorial",
       "path": "030. СИГМА/GTO+. Tutorial.md"
-    },
-    {
-      "basename": "GTO+. Постройка дерева",
-      "path": "030. СИГМА/GTO+. Постройка дерева.md"
     }
   ],
   "omittedPaths": [
