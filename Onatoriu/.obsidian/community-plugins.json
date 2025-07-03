@@ -23,5 +23,6 @@
   "simple-time-tracker",
   "obsidian-tasks-plugin",
   "obsidian-spaced-repetition",
-  "obsidian-to-anki-plugin"
+  "obsidian-to-anki-plugin",
+  "obsidian-git"
 ]

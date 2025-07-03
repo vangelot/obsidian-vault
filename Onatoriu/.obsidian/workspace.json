@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000. ЗАДАЧИ/Time Track HOME.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Time Track HOME"
+              "title": "New tab"
             }
           }
         ]
@@ -231,13 +227,15 @@
       "obsidian-kanban:Create new board": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "templater-obsidian:Templater": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "000. ЗАДАЧИ/Time Tracker.md",
     "000. ЗАДАЧИ/Time Track HOME.md",
+    "000. ЗАДАЧИ/проверка синхронизации.md",
+    "000. ЗАДАЧИ/Time Tracker.md",
     "000. ЗАДАЧИ/25.06.26 (26-4).md",
     "010. ЖИЗНЬ/ПИТАНИЕ/_Меню.md",
     "010. ЖИЗНЬ/ПИТАНИЕ/Рацион/Гранола🟢100г.md",
@@ -269,7 +267,6 @@
     "030. СИГМА/__мотивация.md",
     "030. СИГМА/_задачи.md",
     "030. СИГМА/0124. Zager V. Игра против фишей. 24 января.md",
-    "030. СИГМА/0416. Игорь. 4бет поты. Рейзер вне позиции..md",
     "pics/other/Pasted image 20250630112222.png",
     "pics/other/Pasted image 20250629124044.png",
     "pics/other/Pasted image 20250629123541.png",

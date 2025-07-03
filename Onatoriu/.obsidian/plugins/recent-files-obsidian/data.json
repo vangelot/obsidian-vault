@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled 1",
+      "path": "000. ЗАДАЧИ/Untitled 1.md"
+    },
+    {
       "basename": "Time Track HOME",
       "path": "000. ЗАДАЧИ/Time Track HOME.md"
+    },
+    {
+      "basename": "проверка синхронизации",
+      "path": "000. ЗАДАЧИ/проверка синхронизации.md"
     },
     {
       "basename": "Time Tracker",
@@ -191,14 +199,6 @@
     {
       "basename": "GTO+. Постройка дерева",
       "path": "030. СИГМА/GTO+. Постройка дерева.md"
-    },
-    {
-      "basename": "0525. Саня. Психолог",
-      "path": "030. СИГМА/0525. Саня. Психолог.md"
-    },
-    {
-      "basename": "0224. Игорь. 2BP caller IP",
-      "path": "030. СИГМА/0224. Игорь. 2BP caller IP.md"
     }
   ],
   "omittedPaths": [
